@@ -1,5 +1,4 @@
-# Databases
-Popular Database Systems Across Categories
+# Databases : Popular Databases Systems Across Categories
 This guide covers a wide array of database systems, each tailored to specific needs and use cases, from managing structured data in relational databases to processing large-scale unstructured data in NoSQL systems, and performing complex analytics with OLAP databases. For in-depth exploration, refer to the provided links to their official websites.
 ## Relational Databases:
 ### PostgreSQL:
